@@ -1,6 +1,5 @@
-[
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Eun%20develope&fontSize=90)](https://capsule-render.vercel.app/api?)
 
+https://capsule-render.vercel.app/api?
 
 <!--
 **Silversi06/Silversi06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
